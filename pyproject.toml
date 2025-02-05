@@ -1,0 +1,24 @@
+[project]
+name = "consult"
+version = "0.1.0"
+description = "hackathon example"
+authors = [
+    {name = "Nina Menezes",email = "nina.menezes@ai.gov.uk"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.ruff]
+line-length = 120
+target-version = 'py312'
+
+[tool.poetry.dependencies]
+python = ">=3.12,<4.0"
+themefinder = "^0.3.1"
