@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "response": "Je soutiens la centrale car elle apportera des emplois.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 2,
+        "response": "Je suis inquiet pour l'environnement.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 3,
+        "response": "Je n'ai pas assez d'informations pour me décider.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 4,
+        "response": "La baisse de la valeur immobilière me préoccupe.",
+        "age_group": "66+"
+    },
+    {
+        "id": 5,
+        "response": "L'énergie nucléaire peut réduire les émissions de carbone.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 6,
+        "response": "Le manque de transparence est préoccupant.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 7,
+        "response": "Des mesures de sécurité strictes sont nécessaires.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 8,
+        "response": "Les risques dépassent les bénéfices économiques promis.",
+        "age_group": "66+"
+    },
+    {
+        "id": 9,
+        "response": "Je pense qu'il faut plus de consultations communautaires.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 10,
+        "response": "Le projet peut stimuler l'économie locale.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 11,
+        "response": "La santé publique est une grande préoccupation pour moi.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 12,
+        "response": "Je suis indécis sur la question.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 13,
+        "response": "Des solutions renouvelables devraient être envisagées.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 14,
+        "response": "Je soutiens l'énergie nucléaire pour l'indépendance énergétique.",
+        "age_group": "66+"
+    },
+    {
+        "id": 15,
+        "response": "Il faut plus d'efforts pour informer le public.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 16,
+        "response": "Les emplois générés seront bénéfiques.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 17,
+        "response": "Je crains le risque d'accidents.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 18,
+        "response": "Une transparence accrue pourrait atténuer les craintes.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 19,
+        "response": "Je soutiens le projet s'il respecte l'environnement.",
+        "age_group": "66+"
+    },
+    {
+        "id": 20,
+        "response": "Je suis préoccupé par les déchets nucléaires.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 21,
+        "response": "Le gouvernement doit engager la communauté.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 22,
+        "response": "Je veux plus d'informations sur la sécurité du projet.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 23,
+        "response": "Les jeunes devraient être plus informés.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 24,
+        "response": "Je suis favorable si les avantages économiques sont prouvés.",
+        "age_group": "66+"
+    },
+    {
+        "id": 25,
+        "response": "Je soutiens l'innovation en énergie nucléaire.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 26,
+        "response": "La sécurité des personnes doit être la priorité.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 27,
+        "response": "Je suis ouvert à changer d'opinion avec les bonnes informations.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 28,
+        "response": "La transparence est essentielle pour emporter l'adhésion.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 29,
+        "response": "Il est important de peser les risques et les avantages.",
+        "age_group": "66+"
+    },
+    {
+        "id": 30,
+        "response": "Je crois en la responsabilité environnementale.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 31,
+        "response": "L'impact économique positif est vital pour la région.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 32,
+        "response": "Les préoccupations des citoyens doivent être entendues.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 33,
+        "response": "J'espère que les jeunes auront plus de possibilités d'emploi.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 34,
+        "response": "L'énergie durable à long terme doit être l'objectif.",
+        "age_group": "66+"
+    },
+    {
+        "id": 35,
+        "response": "Je suis favorable à la construction si elle réduit notre empreinte carbone.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 36,
+        "response": "Les détails sur la sécurité ne sont pas clairs.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 37,
+        "response": "Je préfère que les fonds soient investis dans le renouvelable.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 38,
+        "response": "La clarté sur les plans de sécurité nous rassurerait.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 39,
+        "response": "Je m'inquiète pour les générations futures.",
+        "age_group": "66+"
+    },
+    {
+        "id": 40,
+        "response": "L'énergie nucléaire pourrait stabiliser nos coûts énergétiques.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 41,
+        "response": "Je suis préoccupé par le changement climatique.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 42,
+        "response": "La décision devrait être basée sur des faits scientifiques.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 43,
+        "response": "Je recherche plus d'éducation sur l'énergie nucléaire.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 44,
+        "response": "Les générations actuelles doivent assumer cette responsabilité.",
+        "age_group": "66+"
+    },
+    {
+        "id": 45,
+        "response": "Je crois que la centrale apportera la croissance économique.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 46,
+        "response": "Je crains les conséquences d'un accident nucléaire.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 47,
+        "response": "L'efficacité énergétique doit être maximisée.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 48,
+        "response": "Je voudrais voir plus d'interventions éducatives.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 49,
+        "response": "J'aimerais des garanties concernant les déchets nucléaires.",
+        "age_group": "66+"
+    },
+    {
+        "id": 50,
+        "response": "La capacité de créer des emplois est importante.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 51,
+        "response": "J'ai besoin d'une information plus claire pour me convaincre.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 52,
+        "response": "Il est important que la communauté soit écoutée.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 53,
+        "response": "Les jeunes devraient être impliqués dans ces discussions.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 54,
+        "response": "Je suis d'accord si nous pouvons minimiser les risques.",
+        "age_group": "66+"
+    },
+    {
+        "id": 55,
+        "response": "La durabilité écologique est un facteur décisif.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 56,
+        "response": "Le projet semble économiquement viable.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 57,
+        "response": "Je suis préoccupé par les coûts à long terme.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 58,
+        "response": "Je suis curieux d'apprendre comment cela nous affectera.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 59,
+        "response": "Je veux des assurances sur la sécurité des travailleurs.",
+        "age_group": "66+"
+    },
+    {
+        "id": 60,
+        "response": "Les investissements dans le nucléaire peuvent renforcer l'économie.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 61,
+        "response": "Je pense que les bénéfices à long terme l'emportent sur les risques.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 62,
+        "response": "Une énergie propre est cruciale pour notre avenir.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 63,
+        "response": "J'aimerais en savoir plus sur les impacts locaux.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 64,
+        "response": "Je suis favorable à l'innovation en énergie nucléaire.",
+        "age_group": "66+"
+    },
+    {
+        "id": 65,
+        "response": "Je suis préoccupé par les risques de sécurité.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 66,
+        "response": "Je pense que les jeunes devraient être sensibilisés.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 67,
+        "response": "Je souhaite plus de transparence sur le projet.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 68,
+        "response": "Les jeunes doivent comprendre les enjeux énergétiques.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 69,
+        "response": "Garantir la sécurité à long terme est primordial.",
+        "age_group": "66+"
+    },
+    {
+        "id": 70,
+        "response": "Je soutiens la sécurité énergétique que cela pourrait offrir.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 71,
+        "response": "Les préoccupations écologiques doivent être adressées en premier.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 72,
+        "response": "Je soutiens le projet si des normes de sécurité élevées sont respectées.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 73,
+        "response": "Je veux plus d'opportunités d'apprentissage sur l'énergie nucléaire.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 74,
+        "response": "Je crois qu'une gestion appropriée peut atténuer les risques.",
+        "age_group": "66+"
+    },
+    {
+        "id": 75,
+        "response": "La réduction de notre dépendance aux énergies fossiles est essentielle.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 76,
+        "response": "Le public doit être inclus dans les décisions.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 77,
+        "response": "Je pense qu'un équilibre énergétique est nécessaire.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 78,
+        "response": "Je suis curieux de voir comment ce projet avancera.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 79,
+        "response": "Je veux voir des preuves de technologies nucléaires sûres.",
+        "age_group": "66+"
+    },
+    {
+        "id": 80,
+        "response": "Je suis prêt à écouter divers points de vue pour me décider.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 81,
+        "response": "Il faudrait plus de communication ouverte avec le public.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 82,
+        "response": "La sécurité des résidents locaux est une priorité.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 83,
+        "response": "Les jeunes citoyens doivent aussi être informés correctement.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 84,
+        "response": "Je m'inquiète des effets à long terme.",
+        "age_group": "66+"
+    },
+    {
+        "id": 85,
+        "response": "Une approche équilibrée est essentielle pour le développement durable.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 86,
+        "response": "Je soutiens les initiatives qui prouvent leur sécurité et efficacité.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 87,
+        "response": "Je suis concerné par le besoin de solutions énergétiques immédiates.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 88,
+        "response": "Les jeunes doivent comprendre l'importance de la diversité énergétique.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 89,
+        "response": "Je veux que les autorités garantissent des pratiques sûres.",
+        "age_group": "66+"
+    },
+    {
+        "id": 90,
+        "response": "J'apprécie le potentiel de créer de nouveaux emplois.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 91,
+        "response": "Des discussions éclairées doivent guider notre choix.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 92,
+        "response": "La protection de l'environnement local est cruciale.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 93,
+        "response": "Les jeunes doivent recevoir une formation sur l'énergie propre.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 94,
+        "response": "Les efforts pour atténuer les risques devraient être intensifiés.",
+        "age_group": "66+"
+    },
+    {
+        "id": 95,
+        "response": "Nous devons minimiser notre empreinte environnementale.",
+        "age_group": "21-35"
+    },
+    {
+        "id": 96,
+        "response": "La politique énergétique doit être compréhensive et flexible.",
+        "age_group": "35-50"
+    },
+    {
+        "id": 97,
+        "response": "Je crois que les initiatives sûres et durables doivent être la norme.",
+        "age_group": "51-65"
+    },
+    {
+        "id": 98,
+        "response": "Je cherche à comprendre comment participer activement.",
+        "age_group": "0-20"
+    },
+    {
+        "id": 99,
+        "response": "J'espère un engagement communautaire continu.",
+        "age_group": "66+"
+    },
+    {
+        "id": 100,
+        "response": "Je suis pour le progrès tant qu'il est sécurisé et bien géré.",
+        "age_group": "21-35"
+    }
+]
