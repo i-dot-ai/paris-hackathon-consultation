@@ -1,5 +1,5 @@
 import streamlit as st
-from app.pages import themes
+from app.pages import dashboard
 
 
 st.set_page_config(
