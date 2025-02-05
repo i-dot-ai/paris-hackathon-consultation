@@ -2,7 +2,7 @@
 
 This is an example repo with fake data for the Paris hackathon. 
 
-This uses `themefinder` to analyse the responses from public consultations (using example data).
+This uses `themefinder` (https://pypi.org/project/themefinder/) to analyse the responses from public consultations (using example data).
 
 ## Quickstart
 Clone the repo.

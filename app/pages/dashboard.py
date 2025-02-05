@@ -16,7 +16,7 @@ all_data = themed_data()
 age_groups_options = all_data["age_group"].unique()
 themes_options = all_data["themes"].unique()
 city_options = all_data["city"].unique()
-genders_options = all_data["gender"].unique() 
+genders_options = all_data["gender"].unique()
 positions_options = all_data["position"].unique()
 stances_options = all_data["stances"].unique()
 
@@ -30,7 +30,14 @@ chosen_stances = st.multiselect("Select stance", options=stances_options, defaul
 
 # Filter the data
 df = all_data
-filtered_df = df[(df["themes"].isin(chosen_themes)) & (df["age_group"].isin(chosen_age_groups)) & (df["city"].isin(chosen_cities)) & (df["age_group"].isin(chosen_age_groups)) & (df["position"].isin(chosen_positions)) & (df["stances"].isin(chosen_stances))]
+filtered_df = df[
+    (df["themes"].isin(chosen_themes))
+    & (df["age_group"].isin(chosen_age_groups))
+    & (df["city"].isin(chosen_cities))
+    & (df["age_group"].isin(chosen_age_groups))
+    & (df["position"].isin(chosen_positions))
+    & (df["stances"].isin(chosen_stances))
+]
 
 themes_by_counts = df["themes"].value_counts()
 st.bar_chart(themes_by_counts)
