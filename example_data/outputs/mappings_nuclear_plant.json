@@ -1,0 +1,1494 @@
+[
+    {
+        "response_id": 1,
+        "response": "Je soutiens la centrale car elle apportera des emplois.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The response mentions job creation as a benefit of the nuclear power plant."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 2,
+        "response": "Je suis inquiet pour l'environnement.",
+        "age_group": "51-65",
+        "position": "disagreement",
+        "reasons": [
+            "The response expresses concern about the environmental impact of the nuclear power plant."
+        ],
+        "labels": [
+            "E"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 3,
+        "response": "Je n'ai pas assez d'informations pour me d\u00e9cider.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The response indicates a lack of information to make a decision."
+        ],
+        "labels": [],
+        "stances": []
+    },
+    {
+        "response_id": 4,
+        "response": "La baisse de la valeur immobili\u00e8re me pr\u00e9occupe.",
+        "age_group": "66+",
+        "position": "disagreement",
+        "reasons": [
+            "The response expresses concern about the potential decrease in property values."
+        ],
+        "labels": [
+            "F"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 5,
+        "response": "L'\u00e9nergie nucl\u00e9aire peut r\u00e9duire les \u00e9missions de carbone.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The response mentions that nuclear energy can reduce carbon emissions."
+        ],
+        "labels": [
+            "B"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 6,
+        "response": "Le manque de transparence est pr\u00e9occupant.",
+        "age_group": "51-65",
+        "position": "disagreement",
+        "reasons": [
+            "The response expresses concern about the lack of transparency."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 7,
+        "response": "Des mesures de s\u00e9curit\u00e9 strictes sont n\u00e9cessaires.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The response emphasizes the need for strict safety measures."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 8,
+        "response": "Les risques d\u00e9passent les b\u00e9n\u00e9fices \u00e9conomiques promis.",
+        "age_group": "66+",
+        "position": "disagreement",
+        "reasons": [
+            "The response states that the risks outweigh the promised economic benefits."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 9,
+        "response": "Je pense qu'il faut plus de consultations communautaires.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response calls for more community consultations."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 10,
+        "response": "Le projet peut stimuler l'\u00e9conomie locale.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The response mentions that the project can stimulate the local economy."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 11,
+        "response": "La sant\u00e9 publique est une grande pr\u00e9occupation pour moi.",
+        "age_group": "51-65",
+        "position": "disagreement",
+        "reasons": [
+            "The response expresses concern about public health."
+        ],
+        "labels": [
+            "G"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 12,
+        "response": "Je suis ind\u00e9cis sur la question.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response indicates indecision on the issue."
+        ],
+        "labels": [],
+        "stances": []
+    },
+    {
+        "response_id": 13,
+        "response": "Des solutions renouvelables devraient \u00eatre envisag\u00e9es.",
+        "age_group": "35-50",
+        "position": "disagreement",
+        "reasons": [
+            "The response suggests considering renewable energy solutions."
+        ],
+        "labels": [
+            "H"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 14,
+        "response": "Je soutiens l'\u00e9nergie nucl\u00e9aire pour l'ind\u00e9pendance \u00e9nerg\u00e9tique.",
+        "age_group": "66+",
+        "position": "agreement",
+        "reasons": [
+            "The response supports nuclear energy for energy independence."
+        ],
+        "labels": [
+            "C"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 15,
+        "response": "Il faut plus d'efforts pour informer le public.",
+        "age_group": "21-35",
+        "position": "unclear",
+        "reasons": [
+            "The response calls for more efforts to inform the public."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 16,
+        "response": "Les emplois g\u00e9n\u00e9r\u00e9s seront b\u00e9n\u00e9fiques.",
+        "age_group": "51-65",
+        "position": "agreement",
+        "reasons": [
+            "The response mentions that the jobs generated will be beneficial."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 17,
+        "response": "Je crains le risque d'accidents.",
+        "age_group": "35-50",
+        "position": "disagreement",
+        "reasons": [
+            "The response expresses fear of accidents."
+        ],
+        "labels": [
+            "G"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 18,
+        "response": "Une transparence accrue pourrait att\u00e9nuer les craintes.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response suggests that increased transparency could alleviate fears."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 19,
+        "response": "Je soutiens le projet s'il respecte l'environnement.",
+        "age_group": "66+",
+        "position": "agreement",
+        "reasons": [
+            "The response supports the project if it respects the environment."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 20,
+        "response": "Je suis pr\u00e9occup\u00e9 par les d\u00e9chets nucl\u00e9aires.",
+        "age_group": "21-35",
+        "position": "disagreement",
+        "reasons": [
+            "The response expresses concern about nuclear waste."
+        ],
+        "labels": [
+            "G"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 21,
+        "response": "Le gouvernement doit engager la communaut\u00e9.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The response emphasizes the need for community engagement in the decision-making process."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 22,
+        "response": "Je veux plus d'informations sur la s\u00e9curit\u00e9 du projet.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The response requests more information about the safety of the project."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 23,
+        "response": "Les jeunes devraient \u00eatre plus inform\u00e9s.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response highlights the need for better information dissemination to the youth."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 24,
+        "response": "Je suis favorable si les avantages \u00e9conomiques sont prouv\u00e9s.",
+        "age_group": "66+",
+        "position": "agreement",
+        "reasons": [
+            "The response is supportive of the project if economic benefits are proven."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 25,
+        "response": "Je soutiens l'innovation en \u00e9nergie nucl\u00e9aire.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The response supports innovation in nuclear energy."
+        ],
+        "labels": [
+            "C"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 26,
+        "response": "La s\u00e9curit\u00e9 des personnes doit \u00eatre la priorit\u00e9.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The response emphasizes that public safety should be a priority."
+        ],
+        "labels": [
+            "G"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 27,
+        "response": "Je suis ouvert \u00e0 changer d'opinion avec les bonnes informations.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The response indicates openness to changing opinion with the right information."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 28,
+        "response": "La transparence est essentielle pour emporter l'adh\u00e9sion.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response stresses the importance of transparency to gain public support."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 29,
+        "response": "Il est important de peser les risques et les avantages.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The response highlights the importance of weighing risks and benefits."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 30,
+        "response": "Je crois en la responsabilit\u00e9 environnementale.",
+        "age_group": "21-35",
+        "position": "unclear",
+        "reasons": [
+            "The response expresses a belief in environmental responsibility."
+        ],
+        "labels": [
+            "E"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 31,
+        "response": "L'impact \u00e9conomique positif est vital pour la r\u00e9gion.",
+        "age_group": "35-50",
+        "position": "agreement",
+        "reasons": [
+            "The response states that positive economic impact is vital for the region."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 32,
+        "response": "Les pr\u00e9occupations des citoyens doivent \u00eatre entendues.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The response emphasizes that citizens' concerns should be heard."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 33,
+        "response": "J'esp\u00e8re que les jeunes auront plus de possibilit\u00e9s d'emploi.",
+        "age_group": "0-20",
+        "position": "agreement",
+        "reasons": [
+            "The response hopes for more job opportunities for the youth."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 34,
+        "response": "L'\u00e9nergie durable \u00e0 long terme doit \u00eatre l'objectif.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The response states that long-term sustainable energy should be the goal."
+        ],
+        "labels": [
+            "B"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 35,
+        "response": "Je suis favorable \u00e0 la construction si elle r\u00e9duit notre empreinte carbone.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The response supports the construction if it reduces carbon footprint."
+        ],
+        "labels": [
+            "B"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 36,
+        "response": "Les d\u00e9tails sur la s\u00e9curit\u00e9 ne sont pas clairs.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The response indicates that details on safety are unclear."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 37,
+        "response": "Je pr\u00e9f\u00e8re que les fonds soient investis dans le renouvelable.",
+        "age_group": "35-50",
+        "position": "disagreement",
+        "reasons": [
+            "The response prefers investment in renewable energy over nuclear power."
+        ],
+        "labels": [
+            "H"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 38,
+        "response": "La clart\u00e9 sur les plans de s\u00e9curit\u00e9 nous rassurerait.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response suggests that clarity on safety plans would be reassuring."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 39,
+        "response": "Je m'inqui\u00e8te pour les g\u00e9n\u00e9rations futures.",
+        "age_group": "66+",
+        "position": "disagreement",
+        "reasons": [
+            "The response expresses concern for future generations."
+        ],
+        "labels": [
+            "E"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 40,
+        "response": "L'\u00e9nergie nucl\u00e9aire pourrait stabiliser nos co\u00fbts \u00e9nerg\u00e9tiques.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The response believes nuclear energy could stabilize energy costs."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 41,
+        "response": "Je suis pr\u00e9occup\u00e9 par le changement climatique.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The respondent expresses concern about climate change, which relates to the environmental impact of energy sources."
+        ],
+        "labels": [
+            "B"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 42,
+        "response": "La d\u00e9cision devrait \u00eatre bas\u00e9e sur des faits scientifiques.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The respondent emphasizes the importance of making decisions based on scientific facts, which aligns with the need to balance risks and benefits."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 43,
+        "response": "Je recherche plus d'\u00e9ducation sur l'\u00e9nergie nucl\u00e9aire.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The respondent seeks more education on nuclear energy, indicating a need for transparency and community engagement."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 44,
+        "response": "Les g\u00e9n\u00e9rations actuelles doivent assumer cette responsabilit\u00e9.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The respondent mentions the responsibility of current generations, which can be linked to the long-term environmental concerns."
+        ],
+        "labels": [
+            "E"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 45,
+        "response": "Je crois que la centrale apportera la croissance \u00e9conomique.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The respondent believes the power plant will bring economic growth, which relates to the economic impact."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 46,
+        "response": "Je crains les cons\u00e9quences d'un accident nucl\u00e9aire.",
+        "age_group": "35-50",
+        "position": "disagreement",
+        "reasons": [
+            "The respondent expresses fear of nuclear accidents, which relates to public health and safety risks."
+        ],
+        "labels": [
+            "G"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 47,
+        "response": "L'efficacit\u00e9 \u00e9nerg\u00e9tique doit \u00eatre maximis\u00e9e.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The respondent emphasizes the need to maximize energy efficiency, which can be linked to energy independence and innovation."
+        ],
+        "labels": [
+            "C"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 48,
+        "response": "Je voudrais voir plus d'interventions \u00e9ducatives.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The respondent wants more educational interventions, indicating a need for transparency and community engagement."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 49,
+        "response": "J'aimerais des garanties concernant les d\u00e9chets nucl\u00e9aires.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The respondent seeks guarantees regarding nuclear waste, which relates to safety and environmental standards."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 50,
+        "response": "La capacit\u00e9 de cr\u00e9er des emplois est importante.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The respondent highlights the importance of job creation, which relates to the economic impact."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 51,
+        "response": "J'ai besoin d'une information plus claire pour me convaincre.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The respondent needs clearer information to be convinced, indicating a need for transparency and community engagement."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 52,
+        "response": "Il est important que la communaut\u00e9 soit \u00e9cout\u00e9e.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The respondent emphasizes the importance of community being heard, indicating a need for transparency and community engagement."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 53,
+        "response": "Les jeunes devraient \u00eatre impliqu\u00e9s dans ces discussions.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The respondent believes young people should be involved in discussions, indicating a need for transparency and community engagement."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 54,
+        "response": "Je suis d'accord si nous pouvons minimiser les risques.",
+        "age_group": "66+",
+        "position": "agreement",
+        "reasons": [
+            "The respondent agrees with the project if risks can be minimized, which relates to balancing risks and benefits."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 55,
+        "response": "La durabilit\u00e9 \u00e9cologique est un facteur d\u00e9cisif.",
+        "age_group": "21-35",
+        "position": "unclear",
+        "reasons": [
+            "The respondent mentions ecological sustainability as a decisive factor, which relates to environmental and clean energy."
+        ],
+        "labels": [
+            "B"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 56,
+        "response": "Le projet semble \u00e9conomiquement viable.",
+        "age_group": "35-50",
+        "position": "agreement",
+        "reasons": [
+            "The respondent believes the project is economically viable, which relates to the economic impact."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 57,
+        "response": "Je suis pr\u00e9occup\u00e9 par les co\u00fbts \u00e0 long terme.",
+        "age_group": "51-65",
+        "position": "disagreement",
+        "reasons": [
+            "The respondent is concerned about long-term costs, which relates to economic and property risks."
+        ],
+        "labels": [
+            "F"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 58,
+        "response": "Je suis curieux d'apprendre comment cela nous affectera.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The respondent is curious about the impact, indicating a need for transparency and community engagement."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 59,
+        "response": "Je veux des assurances sur la s\u00e9curit\u00e9 des travailleurs.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The respondent wants assurances on worker safety, which relates to public health and safety risks."
+        ],
+        "labels": [
+            "G"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 60,
+        "response": "Les investissements dans le nucl\u00e9aire peuvent renforcer l'\u00e9conomie.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The respondent believes nuclear investments can strengthen the economy, which relates to the economic impact."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 61,
+        "response": "Je pense que les b\u00e9n\u00e9fices \u00e0 long terme l'emportent sur les risques.",
+        "age_group": "51-65",
+        "position": "agreement",
+        "reasons": [
+            "The respondent believes that the long-term benefits outweigh the risks."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 62,
+        "response": "Une \u00e9nergie propre est cruciale pour notre avenir.",
+        "age_group": "35-50",
+        "position": "agreement",
+        "reasons": [
+            "The respondent emphasizes the importance of clean energy for the future."
+        ],
+        "labels": [
+            "B"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 63,
+        "response": "J'aimerais en savoir plus sur les impacts locaux.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The respondent wants more information about local impacts."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 64,
+        "response": "Je suis favorable \u00e0 l'innovation en \u00e9nergie nucl\u00e9aire.",
+        "age_group": "66+",
+        "position": "agreement",
+        "reasons": [
+            "The respondent supports innovation in nuclear energy."
+        ],
+        "labels": [
+            "C"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 65,
+        "response": "Je suis pr\u00e9occup\u00e9 par les risques de s\u00e9curit\u00e9.",
+        "age_group": "21-35",
+        "position": "disagreement",
+        "reasons": [
+            "The respondent is concerned about safety risks."
+        ],
+        "labels": [
+            "G"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 66,
+        "response": "Je pense que les jeunes devraient \u00eatre sensibilis\u00e9s.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The respondent believes that young people should be made aware."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 67,
+        "response": "Je souhaite plus de transparence sur le projet.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The respondent wants more transparency about the project."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 68,
+        "response": "Les jeunes doivent comprendre les enjeux \u00e9nerg\u00e9tiques.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The respondent believes that young people need to understand energy issues."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 69,
+        "response": "Garantir la s\u00e9curit\u00e9 \u00e0 long terme est primordial.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The respondent believes that ensuring long-term safety is crucial."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 70,
+        "response": "Je soutiens la s\u00e9curit\u00e9 \u00e9nerg\u00e9tique que cela pourrait offrir.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The respondent supports the energy security that the project could offer."
+        ],
+        "labels": [
+            "C"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 71,
+        "response": "Les pr\u00e9occupations \u00e9cologiques doivent \u00eatre adress\u00e9es en premier.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The respondent believes that ecological concerns should be addressed first."
+        ],
+        "labels": [
+            "E"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 72,
+        "response": "Je soutiens le projet si des normes de s\u00e9curit\u00e9 \u00e9lev\u00e9es sont respect\u00e9es.",
+        "age_group": "35-50",
+        "position": "agreement",
+        "reasons": [
+            "The respondent supports the project if high safety standards are met."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 73,
+        "response": "Je veux plus d'opportunit\u00e9s d'apprentissage sur l'\u00e9nergie nucl\u00e9aire.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The respondent wants more learning opportunities about nuclear energy."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 74,
+        "response": "Je crois qu'une gestion appropri\u00e9e peut att\u00e9nuer les risques.",
+        "age_group": "66+",
+        "position": "agreement",
+        "reasons": [
+            "The respondent believes that proper management can mitigate risks."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 75,
+        "response": "La r\u00e9duction de notre d\u00e9pendance aux \u00e9nergies fossiles est essentielle.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The respondent believes that reducing dependence on fossil fuels is essential."
+        ],
+        "labels": [
+            "B"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 76,
+        "response": "Le public doit \u00eatre inclus dans les d\u00e9cisions.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The respondent believes that the public should be included in decisions."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 77,
+        "response": "Je pense qu'un \u00e9quilibre \u00e9nerg\u00e9tique est n\u00e9cessaire.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The respondent believes that an energy balance is necessary."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 78,
+        "response": "Je suis curieux de voir comment ce projet avancera.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The respondent is curious about how the project will progress."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 79,
+        "response": "Je veux voir des preuves de technologies nucl\u00e9aires s\u00fbres.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The respondent wants to see evidence of safe nuclear technologies."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 80,
+        "response": "Je suis pr\u00eat \u00e0 \u00e9couter divers points de vue pour me d\u00e9cider.",
+        "age_group": "21-35",
+        "position": "unclear",
+        "reasons": [
+            "The respondent is open to listening to various viewpoints before deciding."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "NEUTRAL"
+        ]
+    },
+    {
+        "response_id": 81,
+        "response": "Il faudrait plus de communication ouverte avec le public.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The response emphasizes the need for open communication with the public."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 82,
+        "response": "La s\u00e9curit\u00e9 des r\u00e9sidents locaux est une priorit\u00e9.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The response highlights the priority of local residents' safety."
+        ],
+        "labels": [
+            "G"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 83,
+        "response": "Les jeunes citoyens doivent aussi \u00eatre inform\u00e9s correctement.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response stresses the importance of properly informing young citizens."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 84,
+        "response": "Je m'inqui\u00e8te des effets \u00e0 long terme.",
+        "age_group": "66+",
+        "position": "disagreement",
+        "reasons": [
+            "The response expresses concern about long-term effects."
+        ],
+        "labels": [
+            "E"
+        ],
+        "stances": [
+            "NEGATIVE"
+        ]
+    },
+    {
+        "response_id": 85,
+        "response": "Une approche \u00e9quilibr\u00e9e est essentielle pour le d\u00e9veloppement durable.",
+        "age_group": "21-35",
+        "position": "unclear",
+        "reasons": [
+            "The response mentions the need for a balanced approach for sustainable development."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 86,
+        "response": "Je soutiens les initiatives qui prouvent leur s\u00e9curit\u00e9 et efficacit\u00e9.",
+        "age_group": "35-50",
+        "position": "agreement",
+        "reasons": [
+            "The response supports initiatives that prove their safety and effectiveness."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 87,
+        "response": "Je suis concern\u00e9 par le besoin de solutions \u00e9nerg\u00e9tiques imm\u00e9diates.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The response indicates concern about the need for immediate energy solutions."
+        ],
+        "labels": [
+            "C"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 88,
+        "response": "Les jeunes doivent comprendre l'importance de la diversit\u00e9 \u00e9nerg\u00e9tique.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response emphasizes the importance of young people understanding energy diversity."
+        ],
+        "labels": [
+            "C"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 89,
+        "response": "Je veux que les autorit\u00e9s garantissent des pratiques s\u00fbres.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The response calls for authorities to guarantee safe practices."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 90,
+        "response": "J'appr\u00e9cie le potentiel de cr\u00e9er de nouveaux emplois.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The response appreciates the potential for job creation."
+        ],
+        "labels": [
+            "A"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 91,
+        "response": "Des discussions \u00e9clair\u00e9es doivent guider notre choix.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The response advocates for informed discussions to guide decisions."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 92,
+        "response": "La protection de l'environnement local est cruciale.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The response stresses the importance of protecting the local environment."
+        ],
+        "labels": [
+            "E"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 93,
+        "response": "Les jeunes doivent recevoir une formation sur l'\u00e9nergie propre.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response highlights the need for young people to be trained in clean energy."
+        ],
+        "labels": [
+            "B"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 94,
+        "response": "Les efforts pour att\u00e9nuer les risques devraient \u00eatre intensifi\u00e9s.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The response calls for intensified efforts to mitigate risks."
+        ],
+        "labels": [
+            "J"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 95,
+        "response": "Nous devons minimiser notre empreinte environnementale.",
+        "age_group": "21-35",
+        "position": "unclear",
+        "reasons": [
+            "The response emphasizes the need to minimize environmental footprint."
+        ],
+        "labels": [
+            "E"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 96,
+        "response": "La politique \u00e9nerg\u00e9tique doit \u00eatre compr\u00e9hensive et flexible.",
+        "age_group": "35-50",
+        "position": "unclear",
+        "reasons": [
+            "The response suggests that energy policy should be comprehensive and flexible."
+        ],
+        "labels": [
+            "C"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 97,
+        "response": "Je crois que les initiatives s\u00fbres et durables doivent \u00eatre la norme.",
+        "age_group": "51-65",
+        "position": "unclear",
+        "reasons": [
+            "The response believes that safe and sustainable initiatives should be the norm."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 98,
+        "response": "Je cherche \u00e0 comprendre comment participer activement.",
+        "age_group": "0-20",
+        "position": "unclear",
+        "reasons": [
+            "The response expresses a desire to understand how to participate actively."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 99,
+        "response": "J'esp\u00e8re un engagement communautaire continu.",
+        "age_group": "66+",
+        "position": "unclear",
+        "reasons": [
+            "The response hopes for continuous community engagement."
+        ],
+        "labels": [
+            "I"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    },
+    {
+        "response_id": 100,
+        "response": "Je suis pour le progr\u00e8s tant qu'il est s\u00e9curis\u00e9 et bien g\u00e9r\u00e9.",
+        "age_group": "21-35",
+        "position": "agreement",
+        "reasons": [
+            "The response supports progress as long as it is secure and well-managed."
+        ],
+        "labels": [
+            "D"
+        ],
+        "stances": [
+            "POSITIVE"
+        ]
+    }
+]

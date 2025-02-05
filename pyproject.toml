@@ -23,3 +23,5 @@ target-version = 'py312'
 python = ">=3.12,<4.0"
 themefinder = "^0.3.1"
 pandas = "^2.2.3"
+plotly = "^6.0.0"
+streamlit = "^1.42.0"
