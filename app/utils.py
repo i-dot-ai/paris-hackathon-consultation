@@ -1,0 +1,3 @@
+IAI_PINK = "#c50878"
+LIGHT_PINK = "#dc89ac"
+DARK_BLUE = "#044599"
