@@ -15,7 +15,7 @@ st.title("Avez-vous des commentaires sur la construction d'une nouvelle centrale
 all_data = themed_data()
 
 # Display a summary
-st.subheader("The top three themes from the responses are:")
+st.subheader("Les trois principaux thèmes sont:")
 themes_by_counts_df = all_data["themes"].value_counts().reset_index()
 
 
@@ -23,10 +23,10 @@ for row in themes_by_counts_df.head(3).iterrows():
     st.write(row[1]["themes"])
 
 total_responses = len(all_data["response_id"].unique())
-st.write(f"Total number of responses: {total_responses}")
+st.write(f"Nombre total de réponses à la consultation: {total_responses}")
 
 # Explore the data in detail
-st.subheader("Explore the data")
+st.subheader("Explorez les données")
 # Get options for multiselect
 age_groups_options = all_data["age_group"].unique()
 themes_options = all_data["themes"].unique()
@@ -58,6 +58,4 @@ filtered_df = df[
 # Display the data
 themes_by_counts = df["themes"].value_counts().sort_values(ascending=False)
 st.bar_chart(themes_by_counts, horizontal=True, color=IAI_PINK)
-
-
 st.dataframe(filtered_df)
